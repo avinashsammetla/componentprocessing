@@ -98,7 +98,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>apigateway</finalName>
+		<finalName>componentprocessing</finalName>
 	</build>
 
 </project>
